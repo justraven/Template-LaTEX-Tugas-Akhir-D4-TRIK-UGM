@@ -64,6 +64,13 @@ Versi template overleaf dapat diklik pada link berikut https://www.overleaf.com/
 ## Catatan
 Apabila ada pertanyaan dan konsultasi terkait template ini bisa tanyakan lewat email ke ardyseto@uny.ac.id -->
 
+## Perangkat Lunak yang Digunakan
+
+Perangkat lunak yang digunakan untuk mengolah LaTEX pada template ini adalah :
+- TeXstudio
+- MiKTex
+- Overleaf (LaTEX editor berbasis daring)
+
 ## Pengembang
 - [@2black0](https://www.github.com/2black0)
 - [@justraven](https://github.com/justraven)
