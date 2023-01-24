@@ -1,7 +1,7 @@
 
-# Template LaTeX Laporan Proyek Akhir D4 Teknik Elektronika UNY
+# Template LaTeX Laporan Proyek Akhir D4 TRIK UGM
 
-Repo ini berisi template LaTeX yang digunakan dalam penulisan Laporan Proyek Akhir mahasiswa D4 Teknik Elektronika UNY. Semua mahasiswa D4 Teknik Elektronika wajib menggunakan template LaTeX ini karena dengan menggunakan template ini penulisan laporan akan menjadi lebih cepat dengan format yang seragam sehingga mahasiswa dapat fokus pada konten dan tidak terkendala dengan format laporan yang kadang kala menjadi kendala tersendiri. Selain itu penyimpanan file laporan menjadi lebih mudah karena dapat di simpan di Github sehingga mudah untuk diakses.
+Repo ini berisi template LaTeX yang dikembangkan dari @2black0 untuk mahasiswa UNY. diadaptasi dan dikembangkan sebagai template LaTEX untuk laporan akhir Mahasiswa D4 TRIK SV UGM. Dengan pengembangan format latex ini diharapkan laporan tugas akhir mahasiswa D4 TRIK UGM dapat rapih, seragam, dan konsisten dalam penulisan dan format. Sehingga, dapat mempercepat pengerjaan laporan tugas akhir.
 
 ## Penjelasan Isi File
 
@@ -59,6 +59,6 @@ Versi template overleaf dapat diklik pada link berikut https://www.overleaf.com/
 Apabila ada pertanyaan dan konsultasi terkait template ini bisa tanyakan lewat email ke ardyseto@uny.ac.id
 
 ## Pengembang
-
 - [@2black0](https://www.github.com/2black0)
+- [@justraven](https://github.com/justraven)
 
