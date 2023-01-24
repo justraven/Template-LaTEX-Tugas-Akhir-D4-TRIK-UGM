@@ -1,7 +1,7 @@
 
 # Template LaTeX Laporan Proyek Akhir D4 TRIK UGM
 
-Repo ini berisi template LaTeX yang dikembangkan dari [@2black0](https://www.github.com/2black0) untuk mahasiswa UNY. diadaptasi dan dikembangkan sebagai template LaTEX untuk laporan akhir Mahasiswa D4 TRIK SV UGM. Dengan pengembangan format latex ini diharapkan laporan tugas akhir mahasiswa D4 TRIK UGM dapat rapih, seragam, dan konsisten dalam penulisan dan format. Sehingga, dapat mempercepat pengerjaan laporan tugas akhir.
+Repo ini berisi template LaTeX yang dikembangkan dari [@2black0](https://www.github.com/2black0) untuk mahasiswa UNY. diadaptasi dan dikembangkan sebagai template LaTEX untuk laporan akhir Mahasiswa D4 TRIK SV UGM. Dengan pengembangan format latex ini diharapkan laporan tugas akhir mahasiswa D4 TRIK SV UGM dapat rapih, seragam, dan konsisten dalam penulisan dan format. Sehingga, dapat mempercepat pengerjaan laporan tugas akhir.
 
 ## Penjelasan Isi File
 
@@ -11,6 +11,7 @@ Unduh repo ini dengan menggunakan git atau dengan klik Download Zip yang ada di 
     ├─e─ image                  # folder dimana semua gambar yang akan dimasukkan pada laporan disimpan, format gambar adalah jpg / png
     ├─── README.md              # file yang sedang anda baca ini
     ├─e─ laporan.tex            # file utama
+
     ├─── chapters               # file berisi sub-file LaTEX
         ├─e─ abstract.tex           # abstrak bahasa inggris
         ├─e─ abstrak.tex            # abstrak bahasa indonesia
@@ -31,9 +32,12 @@ Unduh repo ini dengan menggunakan git atau dengan klik Download Zip yang ada di 
         ├─── pengesahan.tex         # halaman pengesahan
         ├─── pernyataan.tex         # surat pernyataan
         ├─── persetujuan.tex        # lembar persetujuan
-        ├─e─ pustaka.bib            # daftar referensi
         ├─── sampul.tex             # sampul luar
         ├─── sampuldalam.tex        # sampul dalam
+
+    ├─── bibliography               # folder berisi file pustaka
+        ├─e─ pustaka.bib            # daftar referensi
+
 
 pada file dengan tanda -e- di atas adalah file yang diperkenankan untuk diedit, sedangkan yang tidak ada -e- dilarang untuk diedit.
 
