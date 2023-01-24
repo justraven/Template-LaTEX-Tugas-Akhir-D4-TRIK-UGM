@@ -41,7 +41,7 @@ Unduh repo ini dengan menggunakan git atau dengan klik Download Zip yang ada di 
 
 pada file dengan tanda -e- di atas adalah file yang diperkenankan untuk diedit, sedangkan yang tidak ada -e- dilarang untuk diedit.
 
-## Petunjuk Penggunaan
+<!-- ## Petunjuk Penggunaan
 
 ### Overleaf - Browser
 Versi template overleaf dapat diklik pada link berikut https://www.overleaf.com/latex/templates/template-latex-laporan-proyek-akhir-d4-teknik-elektronika-uny/xktsdcjgcfqf
@@ -62,7 +62,7 @@ Versi template overleaf dapat diklik pada link berikut https://www.overleaf.com/
 ![TexStudio on MacOS](gambar/screenshot-texstudio.png "TexStudio on MacOS")
 
 ## Catatan
-Apabila ada pertanyaan dan konsultasi terkait template ini bisa tanyakan lewat email ke ardyseto@uny.ac.id
+Apabila ada pertanyaan dan konsultasi terkait template ini bisa tanyakan lewat email ke ardyseto@uny.ac.id -->
 
 ## Pengembang
 - [@2black0](https://www.github.com/2black0)
