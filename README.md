@@ -11,7 +11,7 @@ Unduh repo ini dengan menggunakan git atau dengan klik Download Zip yang ada di 
     ├─e─ image                  # folder dimana semua gambar yang akan dimasukkan pada laporan disimpan, format gambar adalah jpg / png
     ├─── README.md              # file yang sedang anda baca ini
     ├─e─ laporan.tex            # file utama
-    ├─e─ chapters               # file berisi sub-file LaTEX
+    ├─── chapters               # file berisi sub-file LaTEX
         ├─e─ abstract.tex           # abstrak bahasa inggris
         ├─e─ abstrak.tex            # abstrak bahasa indonesia
         ├─e─ bab1.tex               # bab 1 pendahuluan
