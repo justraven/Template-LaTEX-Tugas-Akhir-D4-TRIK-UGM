@@ -1,32 +1,32 @@
-%==================================================================
-% Ini adalah file utama dari dokumen LaTeX ini
-%==================================================================
-
-%% DILARANG EDIT BAGIAN INI
 \documentclass[12pt, a4paper, onecolumn, oneside, final]{report}
 
-\input{identitas}
-\input{preambles}
-\input{database.hyphenate}
-
+\input{chapters/identitas}
+\input{chapters/preambles}
+\input{chapters/database.hyphenate}
 \begin{document}
-\include{sampul}
+\include{chapters/sampul}
 \pagenumbering{roman}
-\include{sampuldalam}
-\include{persetujuan}
-\include{pernyataan}
-\include{pengesahan}
-\include{abstrak}
-\include{abstract}
-\include{katapengantar}
-\include{daftar}
+\include{chapters/sampuldalam}
+\include{chapters/pengesahan}
+\include{chapters/persetujuan}
+\include{chapters/pernyataan}
+\include{chapters/katapengantar}
+\include{chapters/daftarisi}
+\include{chapters/daftargambar}
+\include{chapters/daftartabel}
+\include{chapters/daftarsingkatan}
+\include{chapters/abstrak}
+\include{chapters/abstract}
+\include{chapters/daftarlampiran}
+
 \pagenumbering{arabic}
-\include{bab1}
-\include{bab2}
-\include{bab3}
-\include{bab4}
-\include{bab5}
-\input{daftarpustaka}
-\input{lampiran}
+\include{chapters/bab1}
+\include{chapters/bab2}
+\include{chapters/bab3}
+%\include{bab4}
+%\include{bab5}
+\input{chapters/daftarpustaka}
+%\input{lampiran1}
+%\input{lampiran2}
 \end{document}
-%% DILARANG EDIT BAGIAN INI
+

@@ -1,0 +1,39 @@
+\babel@toc {indonesian}{}\relax 
+\contentsline {chapter}{HALAMAN PENGESAHAN}{i}{Doc-Start}%
+\contentsline {chapter}{HALAMAN PERNYATAAN BEBAS PLAGIASI}{ii}{Doc-Start}%
+\contentsline {chapter}{KATA PENGANTAR}{iii}{section*.2}%
+\contentsline {chapter}{DAFTAR ISI}{iv}{section*.3}%
+\contentsline {chapter}{DAFTAR GAMBAR}{vi}{section*.4}%
+\contentsline {chapter}{DAFTAR TABEL}{vii}{section*.5}%
+\contentsline {chapter}{DAFTAR SINGKATAN}{viii}{section*.6}%
+\contentsline {chapter}{ABSTRAK}{ix}{section*.7}%
+\contentsline {chapter}{ABSTRACT}{x}{section*.8}%
+\contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1\hspace {0.05cm}}Latar Belakang}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2\hspace {0.05cm}}Rumusan Masalah}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3\hspace {0.05cm}}Batasan Masalah}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4\hspace {0.05cm}}Tujuan Penelitian}{1}{section.1.4}%
+\contentsline {section}{\numberline {1.5\hspace {0.05cm}}Manfaat Penelitian}{1}{section.1.5}%
+\contentsline {section}{\numberline {1.6\hspace {0.05cm}}Sistematika Penulisan}{1}{section.1.6}%
+\contentsline {chapter}{\numberline {2}LANDASAN TEORI}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1\hspace {0.05cm}}Tinjauan Pustaka}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2\hspace {0.05cm}}Dasar Teori}{3}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1\hspace {-0.25cm}}Sub Dasar Teori 2.1.1}{3}{subsection.2.2.1}%
+\contentsline {chapter}{\numberline {3}METODOLOGI PENELITIAN}{4}{chapter.3}%
+\contentsline {section}{\numberline {3.1\hspace {0.05cm}}Perangkat Penelitian}{4}{section.3.1}%
+\contentsline {section}{\numberline {3.2\hspace {0.05cm}}Tahapan Penelitian}{4}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1\hspace {-0.25cm}}Studi Literatur}{4}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2\hspace {-0.25cm}}Perancangan Sistem}{4}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3\hspace {-0.25cm}}Pengujian}{4}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4\hspace {-0.25cm}}\textit {Pre-Processing Data dan Metode ...}}{4}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5\hspace {-0.25cm}}Pembuatan Laporan}{4}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3\hspace {0.05cm}}Perancangan Sistem dan Implementasi}{4}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1\hspace {-0.25cm}}Blok Diagram}{4}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2\hspace {-0.25cm}}Perancangan Perangkat Lunak \textit {Software}}{4}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.1\hspace {-0,35cm}}Flowchart}{5}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.2\hspace {-0,35cm}}Pengambilan Dataset}{5}{subsubsection.3.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.3\hspace {-0,35cm}}Training Dataset}{5}{subsubsection.3.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.3.2.4\hspace {-0,35cm}}Testing Hasil Training Dataset}{5}{subsubsection.3.3.2.4}%
+\contentsline {section}{\numberline {3.4\hspace {0.05cm}}Metode Pengambilan Data}{5}{section.3.4}%
+\contentsline {section}{\numberline {3.5\hspace {0.05cm}}Metode Analisis Data}{5}{section.3.5}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{6}{section*.9}%
