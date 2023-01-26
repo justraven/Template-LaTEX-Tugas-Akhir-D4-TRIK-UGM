@@ -1,7 +1,7 @@
 
 # Template LaTeX Laporan Proyek Akhir D4 TRIK UGM
 
-Repo ini berisi template LaTeX yang dikembangkan dari [@2black0](https://www.github.com/2black0) untuk mahasiswa UNY. diadaptasi dan dikembangkan sebagai template LaTEX untuk laporan akhir Mahasiswa D4 TRIK SV UGM. Dengan pengembangan format latex ini diharapkan laporan tugas akhir mahasiswa D4 TRIK SV UGM dapat rapih, seragam, dan konsisten dalam penulisan dan format. Sehingga, dapat mempercepat pengerjaan laporan tugas akhir.
+Repo ini berisi template LaTeX yang dikembangkan dari [@2black0](https://www.github.com/2black0) untuk mahasiswa UNY. Diadaptasi dan dikembangkan sebagai template LaTEX untuk laporan akhir Mahasiswa D4 TRIK SV UGM. Dengan pengembangan format latex ini diharapkan laporan tugas akhir mahasiswa D4 TRIK SV UGM dapat rapih, seragam, dan konsisten dalam penulisan dan format. Sehingga, dapat mempercepat pengerjaan laporan tugas akhir.
 
 ## Penjelasan Isi File
 
