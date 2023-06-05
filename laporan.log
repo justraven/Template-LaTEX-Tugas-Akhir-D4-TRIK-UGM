@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.18)  24 JAN 2023 16:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.18)  5 JUN 2023 09:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -456,6 +456,19 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 )
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/epigraph\epigraph
+.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/nextpage\nextpage
+.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip111
+\afterepigraphskip=\skip112
+\epigraphwidth=\skip113
+\epigraphrule=\skip114
+)
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.s
 ty
 \wrapoverhang=\dimen175
@@ -468,7 +481,7 @@ Package: wrapfig 2003/01/31  v 3.6
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.s
 ty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip111
+\@mathmargin=\skip115
 
 For additional information on amsmath, use the `?' option.
 
@@ -533,8 +546,8 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \totwidth@=\dimen184
 \lineht@=\dimen185
 \@envbody=\toks29
-\multlinegap=\skip112
-\multlinetaggap=\skip113
+\multlinegap=\skip116
+\multlinetaggap=\skip117
 \mathdisplay@stack=\toks30
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -556,12 +569,12 @@ Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count313
 \calc@Adimen=\dimen186
 \calc@Bdimen=\dimen187
-\calc@Askip=\skip114
-\calc@Bskip=\skip115
+\calc@Askip=\skip118
+\calc@Bskip=\skip119
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count314
-\calc@Cskip=\skip116
+\calc@Cskip=\skip120
 )
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup
 .sty
@@ -569,7 +582,7 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 \g_MT_multlinerow_int=\count315
 \l_MT_multwidth_dim=\dimen188
-\origjot=\skip117
+\origjot=\skip121
 \l_MT_shortvdotswithinadjustabove_dim=\dimen189
 \l_MT_shortvdotswithinadjustbelow_dim=\dimen190
 \l_MT_above_intertext_sep=\dimen191
@@ -579,6 +592,10 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \xmathstrut@box=\box60
 \xmathstrut@dim=\dimen195
 )
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating
 .sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
@@ -587,15 +604,30 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count316
-\rotFPtop=\skip118
-\rotFPbot=\skip119
+\rotFPtop=\skip122
+\rotFPbot=\skip123
 \rot@float@box=\box61
 \rot@mess@toks=\toks31
 )
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflsca
+pe.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflsca
+pe-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.s
+ty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem
 .sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip120
+\labelindent=\skip124
 \enit@outerparindent=\dimen196
 \enit@toks=\toks32
 \enit@inbox=\box62
@@ -638,10 +670,10 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.s
 ty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip121
-\LTright=\skip122
-\LTpre=\skip123
-\LTpost=\skip124
+\LTleft=\skip125
+\LTright=\skip126
+\LTpre=\skip127
+\LTpost=\skip128
 \LTchunksize=\count327
 \LTcapwidth=\dimen257
 \LT@head=\box65
@@ -654,6 +686,34 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \c@LT@tables=\count330
 \c@LT@chunks=\count331
 \LT@p@ftn=\toks34
+)
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\colo
+r.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl
+.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks35
+\minrowclearance=\skip129
+\rownum=\count332
+)
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolo
+r.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref
 .sty
@@ -704,11 +764,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count332
+\c@section@level=\count333
 )
 \@linkdim=\dimen258
-\Hy@linkcounter=\count333
-\Hy@pagecounter=\count334
+\Hy@linkcounter=\count334
+\Hy@pagecounter=\count335
 
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.d
 ef
@@ -724,7 +784,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count335
+\Hy@SavedSpaceFactor=\count336
 
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.de
 f
@@ -740,11 +800,7 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count336
- (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
+\c@Hy@tempcnt=\count337
 LaTeX Info: Redefining \url on input line 4748.
 \XeTeXLinkMargin=\dimen259
 
@@ -757,7 +813,7 @@ ntcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count337
+\Fld@menulength=\count338
 \Field@Width=\dimen260
 \Fld@charsize=\dimen261
 Package hyperref Info: Hyper figures OFF on input line 6027.
@@ -773,9 +829,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count338
-\c@Item=\count339
-\c@Hfootnote=\count340
+\Hy@abspage=\count339
+\c@Item=\count340
+\c@Hfootnote=\count341
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -789,8 +845,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count341
-\c@bookmark@seq@number=\count342
+\Fld@listcount=\count342
+\c@bookmark@seq@number=\count343
 
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\re
 runfilecheck.sty
@@ -803,30 +859,25 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip125
+\Hy@SectionHShift=\skip130
 )
-(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.st
-y
-Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
-
-(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\colo
-r.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 149.
-
-(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolo
-r.ltx))
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.st
 y
 Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.st
+y
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks36
+\verbatim@line=\toks37
+\verbatim@in@stream=\read3
 )) (chapters/database.hyphenate.tex) (laporan.aux (chapters/sampul.aux)
-(chapters/sampuldalam.aux) (chapters/pengesahan.aux) (chapters/persetujuan.aux)
-(chapters/pernyataan.aux) (chapters/katapengantar.aux) (chapters/daftarisi.aux)
+(chapters/sampuldalam.aux) (chapters/pengesahan.aux) (chapters/pernyataan.aux)
+(chapters/motto.aux) (chapters/katapengantar.aux) (chapters/daftarisi.aux)
 (chapters/daftargambar.aux) (chapters/daftartabel.aux)
 (chapters/daftarsingkatan.aux) (chapters/abstrak.aux) (chapters/abstract.aux)
-(chapters/daftarlampiran.aux) (chapters/bab1.aux) (chapters/bab2.aux)
-(chapters/bab3.aux))
+(chapters/bab1.aux) (chapters/bab2.aux) (chapters/bab3.aux) (chapters/bab4.aux)
+(chapters/bab5.aux))
 \openout1 = `laporan.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -858,17 +909,17 @@ LaTeX Font Info:    ... okay on input line 6.
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-
 pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count343
+\scratchcounter=\count344
 \scratchdimen=\dimen262
 \scratchbox=\box70
-\nofMPsegments=\count344
-\nofMParguments=\count345
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count346
+\nofMPsegments=\count345
+\nofMParguments=\count346
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count347
 \MPscratchDim=\dimen263
-\MPnumerator=\count347
-\makeMPintoPDFobject=\count348
-\everyMPtoPDFconversion=\toks36
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
+\everyMPtoPDFconversion=\toks39
 )
 (C:\Users\Alim Satria\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epst
 opdf-base.sty
@@ -930,7 +981,7 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count349
+\c@lstlisting=\count350
 Package hyperref Info: Link coloring OFF on input line 6.
 (laporan.out) (laporan.out)
 \@outlinefile=\write3
@@ -939,7 +990,7 @@ Package hyperref Info: Link coloring OFF on input line 6.
 \openout2 = `chapters/sampul.aux'.
 
  (chapters/sampul.tex
-<gambar/logo-ugm.png, id=138, 290.7663pt x 305.4612pt>
+<gambar/logo-ugm.png, id=202, 290.7663pt x 305.4612pt>
 File: gambar/logo-ugm.png Graphic file (type png)
 <use gambar/logo-ugm.png>
 Package pdftex.def Info: gambar/logo-ugm.png  used on input line 9.
@@ -1010,15 +1061,17 @@ l.10 \include{chapters/pengesahan}
 
 
 ]
-\openout2 = `chapters/persetujuan.aux'.
-
-
-No file chapters/persetujuan.tex.
 \openout2 = `chapters/pernyataan.aux'.
 
-(chapters/pernyataan.tex) [2
+ (chapters/pernyataan.tex) [2
 
 
+
+]
+\openout2 = `chapters/motto.aux'.
+
+
+(chapters/motto.tex) [3
 
 
 
@@ -1026,7 +1079,7 @@ No file chapters/persetujuan.tex.
 ]
 \openout2 = `chapters/katapengantar.aux'.
 
- (chapters/katapengantar.tex) [3
+ (chapters/katapengantar.tex) [4
 
 
 
@@ -1035,7 +1088,7 @@ No file chapters/persetujuan.tex.
 \openout2 = `chapters/daftarisi.aux'.
 
 
-(chapters/daftarisi.tex (laporan.toc [4
+(chapters/daftarisi.tex (laporan.toc [5
 
 
 
@@ -1044,7 +1097,7 @@ No file chapters/persetujuan.tex.
 \tf@toc=\write4
 \openout4 = `laporan.toc'.
 
-) [5]
+) [6]
 \openout2 = `chapters/daftargambar.aux'.
 
  (chapters/daftargambar.tex
@@ -1052,7 +1105,7 @@ No file chapters/persetujuan.tex.
 \tf@lof=\write5
 \openout5 = `laporan.lof'.
 
-) [6
+) [7
 
 
 
@@ -1064,7 +1117,7 @@ No file chapters/persetujuan.tex.
 \tf@lot=\write6
 \openout6 = `laporan.lot'.
 
-) [7
+) [8
 
 
 
@@ -1073,7 +1126,7 @@ No file chapters/persetujuan.tex.
 \openout2 = `chapters/daftarsingkatan.aux'.
 
 
-(chapters/daftarsingkatan.tex) [8
+(chapters/daftarsingkatan.tex) [9
 
 
 
@@ -1081,7 +1134,7 @@ No file chapters/persetujuan.tex.
 ]
 \openout2 = `chapters/abstrak.aux'.
 
- (chapters/abstrak.tex) [9
+ (chapters/abstrak.tex) [10
 
 
 
@@ -1090,19 +1143,15 @@ No file chapters/persetujuan.tex.
 \openout2 = `chapters/abstract.aux'.
 
 
-(chapters/abstract.tex) [10
+(chapters/abstract.tex) [11
 
 
 
 
 ]
-\openout2 = `chapters/daftarlampiran.aux'.
-
-
-No file chapters/daftarlampiran.tex.
 \openout2 = `chapters/bab1.aux'.
 
-(chapters/bab1.tex
+ (chapters/bab1.tex
 Bab 1.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 0.
@@ -1116,9 +1165,6 @@ been already used, duplicate ignored
 l.35     \item B
                 ab 5 Kesimpulan dan Saran: menjabarkan kesimpulan yang diper...
 [1
-
-
-
 
 
 
@@ -1143,43 +1189,66 @@ Bab 3.
 
 
 
-]) [5] (chapters/daftarpustaka.tex (laporan.bbl))
+]) [5]
+\openout2 = `chapters/bab4.aux'.
+
+ (chapters/bab4.tex
+Bab 4.
+) [6
+
+
+
+
+]
+\openout2 = `chapters/bab5.aux'.
+
+ (chapters/bab5.tex
+Bab 5.
+) [7
+
+
+
+
+] (chapters/daftarpustaka.tex (laporan.bbl)) (chapters/lampiran1.tex
+[8
+
+
+
+
+])
 
 Package caption Warning: Unused \captionsetup[figure] on input line 82.
 See the caption package documentation for explanation.
 
-[6
-
-
-
+[9
 
 ] (laporan.aux (chapters/sampul.aux) (chapters/sampuldalam.aux)
-(chapters/pengesahan.aux) (chapters/persetujuan.aux) (chapters/pernyataan.aux)
+(chapters/pengesahan.aux) (chapters/pernyataan.aux) (chapters/motto.aux)
 (chapters/katapengantar.aux) (chapters/daftarisi.aux)
 (chapters/daftargambar.aux) (chapters/daftartabel.aux)
 (chapters/daftarsingkatan.aux) (chapters/abstrak.aux) (chapters/abstract.aux)
-(chapters/daftarlampiran.aux) (chapters/bab1.aux) (chapters/bab2.aux)
-(chapters/bab3.aux))
+(chapters/bab1.aux) (chapters/bab2.aux) (chapters/bab3.aux) (chapters/bab4.aux)
+(chapters/bab5.aux))
 Package rerunfilecheck Info: File `laporan.out' has not changed.
-(rerunfilecheck)             Checksum: 70C75D09CD330F9EAA63DD5071F1AB1A;4891.
+(rerunfilecheck)             Checksum: 2030D62AD0BEAE8869FD712F8CFCD6E5;7464.
  ) 
 Here is how much of TeX's memory you used:
- 19012 strings out of 475385
- 336390 string characters out of 2774039
- 801860 words of memory out of 3000000
- 39863 multiletter control sequences out of 15000+600000
+ 19831 strings out of 475385
+ 350526 string characters out of 2774039
+ 832398 words of memory out of 3000000
+ 40621 multiletter control sequences out of 15000+600000
  496862 words of font info for 84 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 113i,8n,109p,1198b,604s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 113i,9n,109p,2544b,604s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Alim Satria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.e
 nc}<C:/Users/Alim Satria/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mb8a.pfb><C:/Users/Alim Satria/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmbi8a.pfb><C:/Users/Alim Satria/AppData/Local/Programs/MiKTeX/fonts/type1
 /urw/times/utmr8a.pfb><C:/Users/Alim Satria/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on laporan.pdf (18 pages, 340593 bytes).
+Output written on laporan.pdf (22 pages, 355507 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
- 278 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 414 PDF objects out of 1000 (max. 8388607)
+ 94 named destinations out of 1000 (max. 500000)
+ 406 words of extra memory for PDF output out of 10000 (max. 10000000)
 

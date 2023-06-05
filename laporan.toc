@@ -1,13 +1,14 @@
 \babel@toc {indonesian}{}\relax 
 \contentsline {chapter}{HALAMAN PENGESAHAN}{i}{Doc-Start}%
 \contentsline {chapter}{HALAMAN PERNYATAAN BEBAS PLAGIASI}{ii}{Doc-Start}%
-\contentsline {chapter}{KATA PENGANTAR}{iii}{section*.2}%
-\contentsline {chapter}{DAFTAR ISI}{iv}{section*.3}%
-\contentsline {chapter}{DAFTAR GAMBAR}{vi}{section*.4}%
-\contentsline {chapter}{DAFTAR TABEL}{vii}{section*.5}%
-\contentsline {chapter}{DAFTAR SINGKATAN}{viii}{section*.6}%
-\contentsline {chapter}{ABSTRAK}{ix}{section*.7}%
-\contentsline {chapter}{ABSTRACT}{x}{section*.8}%
+\contentsline {chapter}{HALAMAN MOTTO}{iii}{section*.2}%
+\contentsline {chapter}{KATA PENGANTAR}{iv}{section*.3}%
+\contentsline {chapter}{DAFTAR ISI}{v}{section*.4}%
+\contentsline {chapter}{DAFTAR GAMBAR}{vii}{section*.5}%
+\contentsline {chapter}{DAFTAR TABEL}{viii}{section*.6}%
+\contentsline {chapter}{DAFTAR SINGKATAN}{ix}{section*.7}%
+\contentsline {chapter}{ABSTRAK}{x}{section*.8}%
+\contentsline {chapter}{ABSTRACT}{xi}{section*.9}%
 \contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1\hspace {0.05cm}}Latar Belakang}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2\hspace {0.05cm}}Rumusan Masalah}{1}{section.1.2}%
@@ -30,10 +31,26 @@
 \contentsline {section}{\numberline {3.3\hspace {0.05cm}}Perancangan Sistem dan Implementasi}{4}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1\hspace {-0.25cm}}Blok Diagram}{4}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2\hspace {-0.25cm}}Perancangan Perangkat Lunak \textit {Software}}{4}{subsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.2.1\hspace {-0,35cm}}Flowchart}{5}{subsubsection.3.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.3.2.2\hspace {-0,35cm}}Pengambilan Dataset}{5}{subsubsection.3.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.3.2.3\hspace {-0,35cm}}Training Dataset}{5}{subsubsection.3.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.3.2.4\hspace {-0,35cm}}Testing Hasil Training Dataset}{5}{subsubsection.3.3.2.4}%
+\contentsline {subsubsection}{\numberline {A.\hspace {-0,25cm}}Flowchart}{5}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {B.\hspace {-0,25cm}}Pengambilan Dataset}{5}{subsubsection.3.3.2.2}%
+\contentsline {subsubsection}{\numberline {C.\hspace {-0,25cm}}Training Dataset}{5}{subsubsection.3.3.2.3}%
+\contentsline {subsubsection}{\numberline {D.\hspace {-0,25cm}}Testing Hasil Training Dataset}{5}{subsubsection.3.3.2.4}%
 \contentsline {section}{\numberline {3.4\hspace {0.05cm}}Metode Pengambilan Data}{5}{section.3.4}%
 \contentsline {section}{\numberline {3.5\hspace {0.05cm}}Metode Analisis Data}{5}{section.3.5}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{6}{section*.9}%
+\contentsline {chapter}{\numberline {4}HASIL DAN PEMBAHASAN}{6}{chapter.4}%
+\contentsline {section}{\numberline {4.1\hspace {0.05cm}}Hasil Rancangan Sistem}{6}{section.4.1}%
+\contentsline {section}{\numberline {4.2\hspace {0.05cm}}Hasil Deteksi Sistem}{6}{section.4.2}%
+\contentsline {section}{\numberline {4.3\hspace {0.05cm}}Hasil Pengujian Sistem}{6}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1\hspace {-0.25cm}}Hasil Metode LBPHFaceRecognizer}{6}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2\hspace {-0.25cm}}Hasil Metode ...}{6}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3\hspace {-0.25cm}}Hasil Pengujian Sistem Terhadap Faktor Pengaruh}{6}{subsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {A.\hspace {-0,25cm}}Pengaruh Countur}{6}{subsubsection.4.3.3.1}%
+\contentsline {subsection}{\numberline {4.3.4\hspace {-0.25cm}}Pengaruh Cahaya}{6}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5\hspace {-0.25cm}}Pengaruh Jarak}{6}{subsection.4.3.5}%
+\contentsline {section}{\numberline {4.4\hspace {0.05cm}}Akurasi Data Hasil Pengujian}{6}{section.4.4}%
+\contentsline {section}{\numberline {4.5\hspace {0.05cm}}Analisis Data Hasil Pengujian}{6}{section.4.5}%
+\contentsline {chapter}{\numberline {5}PENUTUP}{7}{chapter.5}%
+\contentsline {section}{\numberline {5.1\hspace {0.05cm}}Kesimpulan}{7}{section.5.1}%
+\contentsline {section}{\numberline {5.2\hspace {0.05cm}}Saran}{7}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{8}{section*.10}%
+\contentsline {chapter}{LAMPIRAN A KODE PROGRAM}{9}{appendix*.12}%

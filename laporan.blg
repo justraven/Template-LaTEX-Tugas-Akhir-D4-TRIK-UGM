@@ -1,18 +1,18 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: laporan.aux
-Reallocating 'name_of_file' (item size: 1) to 9 items.
-The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: chapters/sampul.aux
 Reallocating 'name_of_file' (item size: 1) to 25 items.
 A level-1 auxiliary file: chapters/sampuldalam.aux
 Reallocating 'name_of_file' (item size: 1) to 24 items.
 A level-1 auxiliary file: chapters/pengesahan.aux
-Reallocating 'name_of_file' (item size: 1) to 25 items.
-A level-1 auxiliary file: chapters/persetujuan.aux
 Reallocating 'name_of_file' (item size: 1) to 24 items.
 A level-1 auxiliary file: chapters/pernyataan.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: chapters/motto.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: chapters/katapengantar.aux
 Reallocating 'name_of_file' (item size: 1) to 23 items.
@@ -27,64 +27,56 @@ Reallocating 'name_of_file' (item size: 1) to 21 items.
 A level-1 auxiliary file: chapters/abstrak.aux
 Reallocating 'name_of_file' (item size: 1) to 22 items.
 A level-1 auxiliary file: chapters/abstract.aux
-Reallocating 'name_of_file' (item size: 1) to 28 items.
-A level-1 auxiliary file: chapters/daftarlampiran.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: chapters/bab1.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: chapters/bab2.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: chapters/bab3.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: chapters/bab4.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: chapters/bab5.aux
 Reallocating 'name_of_file' (item size: 1) to 21 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: bibliography/pustaka.bib
--- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
--- http://www.michaelshell.org/tex/ieeetran/bibtex/
--- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-
-Done.
 You've used 10 entries,
-            4087 wiz_defined-function locations,
-            908 strings with 9385 characters,
-and the built_in function-call counts, 9227 in all, are:
-= -- 799
-> -- 198
-< -- 92
-+ -- 115
-- -- 36
-* -- 451
-:= -- 1348
-add.period$ -- 21
+            1935 wiz_defined-function locations,
+            559 strings with 5767 characters,
+and the built_in function-call counts, 4457 in all, are:
+= -- 440
+> -- 176
+< -- 7
++ -- 58
+- -- 58
+* -- 399
+:= -- 763
+add.period$ -- 31
 call.type$ -- 10
-change.case$ -- 12
-chr.to.int$ -- 207
+change.case$ -- 78
+chr.to.int$ -- 10
 cite$ -- 10
-duplicate$ -- 645
-empty$ -- 650
-format.name$ -- 39
-if$ -- 2151
-int.to.chr$ -- 0
-int.to.str$ -- 10
-missing$ -- 95
+duplicate$ -- 152
+empty$ -- 322
+format.name$ -- 74
+if$ -- 874
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 10
 newline$ -- 53
-num.names$ -- 12
-pop$ -- 191
+num.names$ -- 32
+pop$ -- 57
 preamble$ -- 1
-purify$ -- 0
-quote$ -- 2
-skip$ -- 731
+purify$ -- 78
+quote$ -- 0
+skip$ -- 115
 stack$ -- 0
-substring$ -- 547
-swap$ -- 583
-text.length$ -- 23
+substring$ -- 395
+swap$ -- 19
+text.length$ -- 2
 text.prefix$ -- 0
-top$ -- 5
-type$ -- 10
+top$ -- 0
+type$ -- 60
 warning$ -- 0
-while$ -- 41
-width$ -- 12
-write$ -- 127
+while$ -- 38
+width$ -- 0
+write$ -- 134
